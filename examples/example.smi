@@ -98,3 +98,5 @@ CHEMBL112,CC(=O)Nc1ccc(O)cc1
 CHEMBL113,Cn1c(=O)c2c(ncn2C)n(C)c1=O
 CHEMBL117,O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12
 CHEMBL118,Cc1ccc(-c2cc(C(F)(F)F)nn2-c2ccc(S(N)(=O)=O)cc2)cc1
+mala,C(#N)N=C(N)N
+wena,C1=CC(=NC(=C1)Cl)C(Cl)(Cl)Cl

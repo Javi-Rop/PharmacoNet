@@ -9,11 +9,11 @@
         -3.930000066757202,
         1.7940000295639038
       ],
-      "score": 0.8742712470675679,
+      "score": 0.8743177014377628,
       "center": [
-        6.504419803619385,
-        -6.9557271003723145,
-        -0.26346704363822937
+        6.504371166229248,
+        -6.955683708190918,
+        -0.26350510120391846
       ],
       "radius": 1.2210039799807693,
       "neighbor_edge_dict": {
@@ -52,11 +52,11 @@
         -13.956999778747559,
         4.400000095367432
       ],
-      "score": 0.9705014749262537,
+      "score": 0.9704782477411562,
       "center": [
-        2.14361572265625,
-        -12.35102367401123,
-        1.5446414947509766
+        2.14365291595459,
+        -12.351042747497559,
+        1.5446044206619263
       ],
       "radius": 1.1577325642095337,
       "neighbor_edge_dict": {
@@ -95,9 +95,9 @@
       ],
       "score": 0.9187745337142592,
       "center": [
-        6.649661540985107,
-        -7.879343509674072,
-        -0.003650617552921176
+        6.6496477127075195,
+        -7.879291534423828,
+        -0.0036835672799497843
       ],
       "radius": 0.8419451504803148,
       "neighbor_edge_dict": {
@@ -140,9 +140,9 @@
       ],
       "score": 0.9187745337142592,
       "center": [
-        3.329247236251831,
-        -10.796677589416504,
-        0.47799360752105713
+        3.3292500972747803,
+        -10.79662799835205,
+        0.47791436314582825
       ],
       "radius": 0.7101240423074943,
       "neighbor_edge_dict": {
@@ -184,8 +184,8 @@
       "score": 0.9990476854110051,
       "center": [
         7.1919169425964355,
-        -8.178377151489258,
-        -0.7050528526306152
+        -8.178394317626953,
+        -0.7051555514335632
       ],
       "radius": 1.1651068557947326,
       "neighbor_edge_dict": {
@@ -225,11 +225,11 @@
         -12.465999603271484,
         -0.013000000268220901
       ],
-      "score": 0.9720809235128794,
+      "score": 0.972057696327782,
       "center": [
-        3.3815648555755615,
-        -10.901447296142578,
-        0.3398106098175049
+        3.381561517715454,
+        -10.901450157165527,
+        0.3397621810436249
       ],
       "radius": 0.8276721363507135,
       "neighbor_edge_dict": {
@@ -270,9 +270,9 @@
       ],
       "score": 0.8612872505981,
       "center": [
-        7.819345474243164,
-        -7.608108997344971,
-        -0.05866537243127823
+        7.81928825378418,
+        -7.608076572418213,
+        -0.05869848281145096
       ],
       "radius": 1.2342050461176612,
       "neighbor_edge_dict": {
@@ -313,11 +313,11 @@
         -8.249500274658203,
         3.128999948501587
       ],
-      "score": 0.9134017637704207,
+      "score": 0.91354633511638,
       "center": [
-        4.130634784698486,
-        -6.9036970138549805,
-        -1.3999183177947998
+        4.1306257247924805,
+        -6.903649806976318,
+        -1.3999110460281372
       ],
       "radius": 0.9188929451620275,
       "neighbor_edge_dict": {
@@ -354,11 +354,11 @@
         -8.249500274658203,
         3.128999948501587
       ],
-      "score": 0.9134017637704207,
+      "score": 0.91354633511638,
       "center": [
-        2.2864770889282227,
-        -10.89654541015625,
-        0.39420557022094727
+        2.2864809036254883,
+        -10.896527290344238,
+        0.3941810727119446
       ],
       "radius": 0.6451905103710748,
       "neighbor_edge_dict": {
@@ -398,9 +398,9 @@
       ],
       "score": 0.982484076433121,
       "center": [
-        4.219979763031006,
-        -7.499727249145508,
-        -1.7629016637802124
+        4.219972610473633,
+        -7.499764919281006,
+        -1.762921929359436
       ],
       "radius": 1.2276400014959281,
       "neighbor_edge_dict": {
@@ -437,11 +437,11 @@
         -4.617000102996826,
         2.9839999675750732
       ],
-      "score": 0.8879306390201386,
+      "score": 0.887884765356209,
       "center": [
-        -0.04591802507638931,
-        -4.273284912109375,
-        0.22498977184295654
+        -0.04593459889292717,
+        -4.273293972015381,
+        0.2249622792005539
       ],
       "radius": 1.1193685151922983,
       "neighbor_edge_dict": {
@@ -481,9 +481,9 @@
       ],
       "score": 0.9634845635120877,
       "center": [
-        1.7420722246170044,
-        -5.333615779876709,
-        -2.0231094360351562
+        1.7421373128890991,
+        -5.333679676055908,
+        -2.023149251937866
       ],
       "radius": 0.8691232371457478,
       "neighbor_edge_dict": {
@@ -521,9 +521,9 @@
       ],
       "score": 0.886411889596603,
       "center": [
-        -1.1425822973251343,
-        -4.132870674133301,
-        -0.2095670998096466
+        -1.1425846815109253,
+        -4.1328606605529785,
+        -0.2095956802368164
       ],
       "radius": 0.8557499835861255,
       "neighbor_edge_dict": {
@@ -560,11 +560,11 @@
         -4.617000102996826,
         2.9839999675750732
       ],
-      "score": 0.90368782161235,
+      "score": 0.9036020583190395,
       "center": [
-        1.1545273065567017,
-        -4.340761661529541,
-        0.16515229642391205
+        1.1545072793960571,
+        -4.340743541717529,
+        0.16510576009750366
       ],
       "radius": 1.1502631139151147,
       "neighbor_edge_dict": {
@@ -603,9 +603,9 @@
       ],
       "score": 0.9907804459691252,
       "center": [
-        7.346330642700195,
-        -8.538810729980469,
-        0.9596903920173645
+        7.346346855163574,
+        -8.538788795471191,
+        0.9596521258354187
       ],
       "radius": 0.8820971385017564,
       "neighbor_edge_dict": {
@@ -646,9 +646,9 @@
       ],
       "score": 0.9907804459691252,
       "center": [
-        3.251991033554077,
-        -11.786016464233398,
-        1.3847336769104004
+        3.251943826675415,
+        -11.785998344421387,
+        1.3847230672836304
       ],
       "radius": 0.9418747296813859,
       "neighbor_edge_dict": {
@@ -689,9 +689,9 @@
       ],
       "score": 0.9935677530017153,
       "center": [
-        7.345951080322266,
-        -8.012465476989746,
-        0.7488632798194885
+        7.345946788787842,
+        -8.01242446899414,
+        0.7488115429878235
       ],
       "radius": 1.1502631139151147,
       "neighbor_edge_dict": {
@@ -747,7 +747,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 7.169037342071533,
+      "distance_mean": 7.169032096862793,
       "distance_std": 1.6826156451667922
     },
     {
@@ -773,7 +773,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 0.9703952670097351,
+      "distance_mean": 0.970393717288971,
       "distance_std": 1.4831461005397273
     },
     {
@@ -786,7 +786,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 6.534338474273682,
+      "distance_mean": 6.534350872039795,
       "distance_std": 1.4315084095626203
     },
     {
@@ -812,7 +812,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 5.038291931152344,
+      "distance_mean": 5.0382490158081055,
       "distance_std": 1.4124896015872168
     },
     {
@@ -825,7 +825,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 2.226982593536377,
+      "distance_mean": 2.227032423019409,
       "distance_std": 1.358168194920761
     },
     {
@@ -838,7 +838,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 4.4461188316345215,
+      "distance_mean": 4.446102619171143,
       "distance_std": 1.1014298851404278
     },
     {
@@ -864,7 +864,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 1.4705520868301392,
+      "distance_mean": 1.4706445932388306,
       "distance_std": 1.6876980489852937
     },
     {
@@ -877,7 +877,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 6.925131797790527,
+      "distance_mean": 6.925127029418945,
       "distance_std": 1.6425037825378273
     },
     {
@@ -890,7 +890,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 0.9356426000595093,
+      "distance_mean": 0.9357250332832336,
       "distance_std": 1.437478911788694
     },
     {
@@ -903,7 +903,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 4.814074516296387,
+      "distance_mean": 4.814041614532471,
       "distance_std": 1.3644596516141558
     },
     {
@@ -929,7 +929,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 5.068024635314941,
+      "distance_mean": 5.0680317878723145,
       "distance_std": 1.4750904665206919
     },
     {
@@ -942,7 +942,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 2.255084753036499,
+      "distance_mean": 2.2550790309906006,
       "distance_std": 1.4231605164290275
     },
     {
@@ -955,7 +955,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 4.464474201202393,
+      "distance_mean": 4.464502811431885,
       "distance_std": 1.1806408436559672
     },
     {
@@ -968,7 +968,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 0.1811307966709137,
+      "distance_mean": 0.1811358481645584,
       "distance_std": 1.090558261054626
     },
     {
@@ -981,7 +981,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 4.798503398895264,
+      "distance_mean": 4.79850959777832,
       "distance_std": 1.429165893348719
     },
     {
@@ -1007,7 +1007,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 1.48208487033844,
+      "distance_mean": 1.482082724571228,
       "distance_std": 1.7361200462500215
     },
     {
@@ -1020,7 +1020,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 7.568337917327881,
+      "distance_mean": 7.568298816680908,
       "distance_std": 1.692219485200865
     },
     {
@@ -1033,7 +1033,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 1.2019797563552856,
+      "distance_mean": 1.2019331455230713,
       "distance_std": 1.4940327079015434
     },
     {
@@ -1046,7 +1046,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 5.533168315887451,
+      "distance_mean": 5.533105373382568,
       "distance_std": 1.423916518383516
     },
     {
@@ -1059,7 +1059,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 1.066156268119812,
+      "distance_mean": 1.06619131565094,
       "distance_std": 1.697273131019927
     },
     {
@@ -1072,7 +1072,7 @@
         "Hydrophobic",
         "Hydrophobic"
       ],
-      "distance_mean": 5.540645599365234,
+      "distance_mean": 5.540622711181641,
       "distance_std": 1.486036090124884
     },
     {
@@ -1098,7 +1098,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 2.6323153972625732,
+      "distance_mean": 2.6322600841522217,
       "distance_std": 1.528141015678011
     },
     {
@@ -1111,7 +1111,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 6.503233432769775,
+      "distance_mean": 6.503254413604736,
       "distance_std": 1.4780760923916356
     },
     {
@@ -1124,7 +1124,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 3.040879011154175,
+      "distance_mean": 3.0408551692962646,
       "distance_std": 1.2462888433609058
     },
     {
@@ -1137,7 +1137,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 4.395915508270264,
+      "distance_mean": 4.3958740234375,
       "distance_std": 1.1613097778507167
     },
     {
@@ -1150,7 +1150,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 3.3880815505981445,
+      "distance_mean": 3.3880913257598877,
       "distance_std": 1.483859235267427
     },
     {
@@ -1163,7 +1163,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 4.423773288726807,
+      "distance_mean": 4.423795700073242,
       "distance_std": 1.236691315551257
     },
     {
@@ -1176,7 +1176,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 3.987698793411255,
+      "distance_mean": 3.987643241882324,
       "distance_std": 1.538709309951312
     },
     {
@@ -1202,7 +1202,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 5.809786796569824,
+      "distance_mean": 5.809767246246338,
       "distance_std": 1.3809857036920283
     },
     {
@@ -1215,7 +1215,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 1.859951376914978,
+      "distance_mean": 1.8599700927734375,
       "distance_std": 1.3253737151852945
     },
     {
@@ -1228,7 +1228,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 5.31969690322876,
+      "distance_mean": 5.3197021484375,
       "distance_std": 1.060727312314625
     },
     {
@@ -1241,7 +1241,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 1.0508869886398315,
+      "distance_mean": 1.05088472366333,
       "distance_std": 0.9594513797665954
     },
     {
@@ -1254,7 +1254,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 5.714905738830566,
+      "distance_mean": 5.714900970458984,
       "distance_std": 1.3318201004988535
     },
     {
@@ -1267,7 +1267,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 1.0964487791061401,
+      "distance_mean": 1.0964429378509521,
       "distance_std": 1.0494341141606947
     },
     {
@@ -1280,7 +1280,7 @@
         "Hydrophobic",
         "PiStacking_P"
       ],
-      "distance_mean": 6.4522504806518555,
+      "distance_mean": 6.452206134796143,
       "distance_std": 1.3926711350980123
     },
     {
@@ -1293,7 +1293,7 @@
         "PiStacking_P",
         "PiStacking_P"
       ],
-      "distance_mean": 4.750014305114746,
+      "distance_mean": 4.750021934509277,
       "distance_std": 1.1227800494047944
     },
     {
@@ -1319,7 +1319,7 @@
         "Hydrophobic",
         "PiCation_lring"
       ],
-      "distance_mean": 2.7861993312835693,
+      "distance_mean": 2.7861716747283936,
       "distance_std": 1.7314591223594629
     },
     {
@@ -1332,7 +1332,7 @@
         "Hydrophobic",
         "PiCation_lring"
       ],
-      "distance_mean": 6.2278571128845215,
+      "distance_mean": 6.227819442749023,
       "distance_std": 1.687437306540336
     },
     {
@@ -1345,7 +1345,7 @@
         "Hydrophobic",
         "PiCation_lring"
       ],
-      "distance_mean": 3.0236446857452393,
+      "distance_mean": 3.02362060546875,
       "distance_std": 1.488613989484931
     },
     {
@@ -1358,7 +1358,7 @@
         "Hydrophobic",
         "PiCation_lring"
       ],
-      "distance_mean": 4.084715366363525,
+      "distance_mean": 4.0846099853515625,
       "distance_std": 1.4182299280215669
     },
     {
@@ -1371,7 +1371,7 @@
         "Hydrophobic",
         "PiCation_lring"
       ],
-      "distance_mean": 3.226766347885132,
+      "distance_mean": 3.2267415523529053,
       "distance_std": 1.6925052315112088
     },
     {
@@ -1384,7 +1384,7 @@
         "Hydrophobic",
         "PiCation_lring"
       ],
-      "distance_mean": 4.086078643798828,
+      "distance_mean": 4.086034297943115,
       "distance_std": 1.4805881056405514
     },
     {
@@ -1397,7 +1397,7 @@
         "Hydrophobic",
         "PiCation_lring"
       ],
-      "distance_mean": 3.9839179515838623,
+      "distance_mean": 3.983865261077881,
       "distance_std": 1.7407935170878883
     },
     {
@@ -1410,7 +1410,7 @@
         "PiCation_lring",
         "PiStacking_P"
       ],
-      "distance_mean": 0.7035562992095947,
+      "distance_mean": 0.7036426663398743,
       "distance_std": 1.533448472542024
     },
     {
@@ -1423,7 +1423,7 @@
         "PiCation_lring",
         "PiStacking_P"
       ],
-      "distance_mean": 4.464293479919434,
+      "distance_mean": 4.464244365692139,
       "distance_std": 1.3868564337903944
     },
     {
@@ -1449,7 +1449,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 7.095139980316162,
+      "distance_mean": 7.095091342926025,
       "distance_std": 1.6564530153109351
     },
     {
@@ -1462,7 +1462,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 8.472626686096191,
+      "distance_mean": 8.472648620605469,
       "distance_std": 1.61038211708743
     },
     {
@@ -1475,7 +1475,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 7.60833215713501,
+      "distance_mean": 7.608305931091309,
       "distance_std": 1.4006632390482483
     },
     {
@@ -1488,7 +1488,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 7.34917688369751,
+      "distance_mean": 7.349132061004639,
       "distance_std": 1.3256176025788684
     },
     {
@@ -1501,7 +1501,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 8.276531219482422,
+      "distance_mean": 8.276558876037598,
       "distance_std": 1.6156917584191912
     },
     {
@@ -1527,7 +1527,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 8.547740936279297,
+      "distance_mean": 8.547688484191895,
       "distance_std": 1.6662076607272303
     },
     {
@@ -1540,7 +1540,7 @@
         "HBond_ldon",
         "PiStacking_P"
       ],
-      "distance_mean": 5.19644021987915,
+      "distance_mean": 5.196406841278076,
       "distance_std": 1.4482230896765718
     },
     {
@@ -1553,7 +1553,7 @@
         "HBond_ldon",
         "PiStacking_P"
       ],
-      "distance_mean": 7.023979187011719,
+      "distance_mean": 7.023960113525391,
       "distance_std": 1.2919971623330675
     },
     {
@@ -1566,7 +1566,7 @@
         "HBond_ldon",
         "PiCation_lring"
       ],
-      "distance_mean": 5.706095218658447,
+      "distance_mean": 5.706116676330566,
       "distance_std": 1.6613506090156687
     },
     {
@@ -1592,7 +1592,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 5.3298726081848145,
+      "distance_mean": 5.329738616943359,
       "distance_std": 1.498741445505389
     },
     {
@@ -1605,7 +1605,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 7.882518291473389,
+      "distance_mean": 7.882478713989258,
       "distance_std": 1.447660143672501
     },
     {
@@ -1618,7 +1618,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 5.885862827301025,
+      "distance_mean": 5.885748386383057,
       "distance_std": 1.2100606752407186
     },
     {
@@ -1631,7 +1631,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 6.214473724365234,
+      "distance_mean": 6.21434211730957,
       "distance_std": 1.122341907267941
     },
     {
@@ -1644,7 +1644,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 6.28734827041626,
+      "distance_mean": 6.287257194519043,
       "distance_std": 1.4535643043108177
     },
     {
@@ -1657,7 +1657,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 6.2667436599731445,
+      "distance_mean": 6.266668319702148,
       "distance_std": 1.200173473560409
     },
     {
@@ -1670,7 +1670,7 @@
         "HBond_ldon",
         "Hydrophobic"
       ],
-      "distance_mean": 6.779794216156006,
+      "distance_mean": 6.779654026031494,
       "distance_std": 1.5095155836257546
     },
     {
@@ -1683,7 +1683,7 @@
         "HBond_ldon",
         "PiStacking_P"
       ],
-      "distance_mean": 2.925534725189209,
+      "distance_mean": 2.925424575805664,
       "distance_std": 1.2648080668683483
     },
     {
@@ -1696,7 +1696,7 @@
         "HBond_ldon",
         "PiStacking_P"
       ],
-      "distance_mean": 6.089825630187988,
+      "distance_mean": 6.089751243591309,
       "distance_std": 1.0824259771548315
     },
     {
@@ -1709,7 +1709,7 @@
         "HBond_ldon",
         "PiCation_lring"
       ],
-      "distance_mean": 3.301480531692505,
+      "distance_mean": 3.301410436630249,
       "distance_std": 1.5041526433908317
     },
     {
@@ -1722,7 +1722,7 @@
         "HBond_ldon",
         "HBond_ldon"
       ],
-      "distance_mean": 3.0618884563446045,
+      "distance_mean": 3.0619640350341797,
       "distance_std": 1.4171665654221859
     },
     {
@@ -1748,7 +1748,7 @@
         "Hydrophobic",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 8.151568412780762,
+      "distance_mean": 8.151514053344727,
       "distance_std": 1.4910260740632717
     },
     {
@@ -1761,7 +1761,7 @@
         "Hydrophobic",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 9.022992134094238,
+      "distance_mean": 9.023031234741211,
       "distance_std": 1.439671047371182
     },
     {
@@ -1774,7 +1774,7 @@
         "Hydrophobic",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 8.648555755615234,
+      "distance_mean": 8.648528099060059,
       "distance_std": 1.2004914288844275
     },
     {
@@ -1787,7 +1787,7 @@
         "Hydrophobic",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 8.054583549499512,
+      "distance_mean": 8.054549217224121,
       "distance_std": 1.112018070838235
     },
     {
@@ -1800,7 +1800,7 @@
         "Hydrophobic",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 9.277688980102539,
+      "distance_mean": 9.277706146240234,
       "distance_std": 1.4456078374951977
     },
     {
@@ -1813,7 +1813,7 @@
         "Hydrophobic",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 8.159862518310547,
+      "distance_mean": 8.159871101379395,
       "distance_std": 1.190524758120976
     },
     {
@@ -1826,7 +1826,7 @@
         "Hydrophobic",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 9.613333702087402,
+      "distance_mean": 9.613275527954102,
       "distance_std": 1.5018555623860612
     },
     {
@@ -1839,7 +1839,7 @@
         "PiStacking_P",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 6.074638366699219,
+      "distance_mean": 6.07460880279541,
       "distance_std": 1.2556561149758316
     },
     {
@@ -1852,7 +1852,7 @@
         "PiStacking_P",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 7.60725212097168,
+      "distance_mean": 7.607248306274414,
       "distance_std": 1.071717700273977
     },
     {
@@ -1865,7 +1865,7 @@
         "PiCation_lring",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 6.519635200500488,
+      "distance_mean": 6.519654273986816,
       "distance_std": 1.4964651708879084
     },
     {
@@ -1878,7 +1878,7 @@
         "HBond_ldon",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 1.1879513263702393,
+      "distance_mean": 1.1879409551620483,
       "distance_std": 1.4090045802663185
     },
     {
@@ -1891,7 +1891,7 @@
         "HBond_ldon",
         "SaltBridge_lneg"
       ],
-      "distance_mean": 3.6127490997314453,
+      "distance_mean": 3.612833261489868,
       "distance_std": 1.2197062087873285
     },
     {
@@ -1917,7 +1917,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 5.970184803009033,
+      "distance_mean": 5.970147609710693,
       "distance_std": 1.6774850074926377
     },
     {
@@ -1930,7 +1930,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 8.188136100769043,
+      "distance_mean": 8.18818187713623,
       "distance_std": 1.6320079416059465
     },
     {
@@ -1943,7 +1943,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 6.538084983825684,
+      "distance_mean": 6.538071632385254,
       "distance_std": 1.4254742606062785
     },
     {
@@ -1956,7 +1956,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 6.819540023803711,
+      "distance_mean": 6.819516181945801,
       "distance_std": 1.351806712032764
     },
     {
@@ -1969,7 +1969,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 7.206568241119385,
+      "distance_mean": 7.206610679626465,
       "distance_std": 1.6372474512588449
     },
     {
@@ -1982,7 +1982,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 6.930569648742676,
+      "distance_mean": 6.9305949211120605,
       "distance_std": 1.4170908215513394
     },
     {
@@ -1995,7 +1995,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 7.425998687744141,
+      "distance_mean": 7.425958633422852,
       "distance_std": 1.6871180536927446
     },
     {
@@ -2008,7 +2008,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 4.227919101715088,
+      "distance_mean": 4.227889060974121,
       "distance_std": 1.4722328198699555
     },
     {
@@ -2021,7 +2021,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 6.656731605529785,
+      "distance_mean": 6.656736373901367,
       "distance_std": 1.3188540578496863
     },
     {
@@ -2034,7 +2034,7 @@
         "PiCation_lring",
         "XBond"
       ],
-      "distance_mean": 4.805565357208252,
+      "distance_mean": 4.805599212646484,
       "distance_std": 1.6823213737293534
     },
     {
@@ -2047,7 +2047,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 1.2038283348083496,
+      "distance_mean": 1.2038242816925049,
       "distance_std": 1.6050205930259918
     },
     {
@@ -2060,7 +2060,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 2.4737536907196045,
+      "distance_mean": 2.4738008975982666,
       "distance_std": 1.4416935987165926
     },
     {
@@ -2073,7 +2073,7 @@
         "SaltBridge_lneg",
         "XBond"
       ],
-      "distance_mean": 2.336738348007202,
+      "distance_mean": 2.336717367172241,
       "distance_std": 1.4336712543820325
     },
     {
@@ -2099,7 +2099,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 2.1705026626586914,
+      "distance_mean": 2.1705434322357178,
       "distance_std": 1.506302121382648
     },
     {
@@ -2112,7 +2112,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 6.476370811462402,
+      "distance_mean": 6.476377964019775,
       "distance_std": 1.4554861909287113
     },
     {
@@ -2125,7 +2125,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.3595112562179565,
+      "distance_mean": 1.3595373630523682,
       "distance_std": 1.2194125627408907
     },
     {
@@ -2138,7 +2138,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 4.633244037628174,
+      "distance_mean": 4.633246421813965,
       "distance_std": 1.1324184373349468
     },
     {
@@ -2151,7 +2151,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.7102999687194824,
+      "distance_mean": 1.7103558778762817,
       "distance_std": 1.4613587332249651
     },
     {
@@ -2164,7 +2164,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 4.656787395477295,
+      "distance_mean": 4.65681791305542,
       "distance_std": 1.2096018051591777
     },
     {
@@ -2177,7 +2177,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.4584227800369263,
+      "distance_mean": 1.4584020376205444,
       "distance_std": 1.5170225633177923
     },
     {
@@ -2190,7 +2190,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 4.310690402984619,
+      "distance_mean": 4.310693740844727,
       "distance_std": 1.2737580643205098
     },
     {
@@ -2203,7 +2203,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 5.610775470733643,
+      "distance_mean": 5.6107869148254395,
       "distance_std": 1.0928706036973797
     },
     {
@@ -2216,7 +2216,7 @@
         "PiCation_lring",
         "XBond"
       ],
-      "distance_mean": 4.2739057540893555,
+      "distance_mean": 4.273897171020508,
       "distance_std": 1.5116862554862067
     },
     {
@@ -2229,7 +2229,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 8.566203117370605,
+      "distance_mean": 8.566215515136719,
       "distance_std": 1.4251600733099414
     },
     {
@@ -2242,7 +2242,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 7.1118268966674805,
+      "distance_mean": 7.11175012588501,
       "distance_std": 1.2383337850110085
     },
     {
@@ -2255,7 +2255,7 @@
         "SaltBridge_lneg",
         "XBond"
       ],
-      "distance_mean": 9.635409355163574,
+      "distance_mean": 9.635418891906738,
       "distance_std": 1.2289847013533737
     },
     {
@@ -2268,7 +2268,7 @@
         "XBond",
         "XBond"
       ],
-      "distance_mean": 7.522854328155518,
+      "distance_mean": 7.52288293838501,
       "distance_std": 1.4495518593643635
     },
     {
@@ -2294,7 +2294,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 6.051987648010254,
+      "distance_mean": 6.0520148277282715,
       "distance_std": 1.542069624090061
     },
     {
@@ -2307,7 +2307,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.2543123960494995,
+      "distance_mean": 1.2542511224746704,
       "distance_std": 1.4924720086633336
     },
     {
@@ -2320,7 +2320,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 5.360398292541504,
+      "distance_mean": 5.36044979095459,
       "distance_std": 1.2633287944275249
     },
     {
@@ -2333,7 +2333,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.3442237377166748,
+      "distance_mean": 1.3442960977554321,
       "distance_std": 1.1795779592191096
     },
     {
@@ -2346,7 +2346,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 5.7363128662109375,
+      "distance_mean": 5.736356735229492,
       "distance_std": 1.4981995834441657
     },
     {
@@ -2359,7 +2359,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.375178575515747,
+      "distance_mean": 1.3751980066299438,
       "distance_std": 1.2538617035796802
     },
     {
@@ -2372,7 +2372,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 6.356023788452148,
+      "distance_mean": 6.35603141784668,
       "distance_std": 1.552543108024599
     },
     {
@@ -2385,7 +2385,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 5.688879013061523,
+      "distance_mean": 5.688901424407959,
       "distance_std": 1.3158617902655767
     },
     {
@@ -2398,7 +2398,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 1.6445430517196655,
+      "distance_mean": 1.6445214748382568,
       "distance_std": 1.1416649250481823
     },
     {
@@ -2411,7 +2411,7 @@
         "PiCation_lring",
         "XBond"
       ],
-      "distance_mean": 5.405264377593994,
+      "distance_mean": 5.405233383178711,
       "distance_std": 1.5473293055084643
     },
     {
@@ -2424,7 +2424,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 8.286274909973145,
+      "distance_mean": 8.286239624023438,
       "distance_std": 1.4629128064297594
     },
     {
@@ -2437,7 +2437,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 7.451625823974609,
+      "distance_mean": 7.451545238494873,
       "distance_std": 1.2816018132630302
     },
     {
@@ -2450,7 +2450,7 @@
         "SaltBridge_lneg",
         "XBond"
       ],
-      "distance_mean": 8.967982292175293,
+      "distance_mean": 8.96795654296875,
       "distance_std": 1.2725706427621368
     },
     {
@@ -2463,7 +2463,7 @@
         "XBond",
         "XBond"
       ],
-      "distance_mean": 7.830616474151611,
+      "distance_mean": 7.8306145668029785,
       "distance_std": 1.4866853189717317
     },
     {
@@ -2476,7 +2476,7 @@
         "XBond",
         "XBond"
       ],
-      "distance_mean": 5.242959022521973,
+      "distance_mean": 5.243013858795166,
       "distance_std": 1.2904353405596773
     },
     {
@@ -2502,7 +2502,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.6881005764007568,
+      "distance_mean": 1.6881160736083984,
       "distance_std": 1.6774850074926377
     },
     {
@@ -2515,7 +2515,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 6.82060432434082,
+      "distance_mean": 6.82061243057251,
       "distance_std": 1.6320079416059465
     },
     {
@@ -2528,7 +2528,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.0338363647460938,
+      "distance_mean": 1.0338306427001953,
       "distance_std": 1.4254742606062785
     },
     {
@@ -2541,7 +2541,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 4.894804954528809,
+      "distance_mean": 4.894795894622803,
       "distance_std": 1.351806712032764
     },
     {
@@ -2554,7 +2554,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.4714365005493164,
+      "distance_mean": 1.4714930057525635,
       "distance_std": 1.6372474512588449
     },
     {
@@ -2567,7 +2567,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 4.922387599945068,
+      "distance_mean": 4.922412395477295,
       "distance_std": 1.4170908215513394
     },
     {
@@ -2580,7 +2580,7 @@
         "Hydrophobic",
         "XBond"
       ],
-      "distance_mean": 1.0196611881256104,
+      "distance_mean": 1.0196185111999512,
       "distance_std": 1.6871180536927446
     },
     {
@@ -2593,7 +2593,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 4.023044586181641,
+      "distance_mean": 4.023018836975098,
       "distance_std": 1.4722328198699555
     },
     {
@@ -2606,7 +2606,7 @@
         "PiStacking_P",
         "XBond"
       ],
-      "distance_mean": 5.834550380706787,
+      "distance_mean": 5.834552764892578,
       "distance_std": 1.3188540578496863
     },
     {
@@ -2619,7 +2619,7 @@
         "PiCation_lring",
         "XBond"
       ],
-      "distance_mean": 4.042716979980469,
+      "distance_mean": 4.042689800262451,
       "distance_std": 1.6823213737293534
     },
     {
@@ -2632,7 +2632,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 8.300339698791504,
+      "distance_mean": 8.300326347351074,
       "distance_std": 1.6050205930259918
     },
     {
@@ -2645,7 +2645,7 @@
         "HBond_ldon",
         "XBond"
       ],
-      "distance_mean": 6.801729679107666,
+      "distance_mean": 6.801626205444336,
       "distance_std": 1.4416935987165926
     },
     {
@@ -2658,7 +2658,7 @@
         "SaltBridge_lneg",
         "XBond"
       ],
-      "distance_mean": 9.382165908813477,
+      "distance_mean": 9.382148742675781,
       "distance_std": 1.4336712543820325
     },
     {
@@ -2671,7 +2671,7 @@
         "XBond",
         "XBond"
       ],
-      "distance_mean": 7.2219014167785645,
+      "distance_mean": 7.221902370452881,
       "distance_std": 1.6267176959962637
     },
     {
@@ -2684,7 +2684,7 @@
         "XBond",
         "XBond"
       ],
-      "distance_mean": 0.5669987201690674,
+      "distance_mean": 0.5670214295387268,
       "distance_std": 1.4495518593643635
     },
     {
@@ -2697,7 +2697,7 @@
         "XBond",
         "XBond"
       ],
-      "distance_mean": 5.603973865509033,
+      "distance_mean": 5.604025363922119,
       "distance_std": 1.4866853189717317
     },
     {
@@ -2724,15 +2724,15 @@
           12
         ],
         "node_types": [
-          "Anion",
-          "HBond_donor"
+          "HBond_donor",
+          "Anion"
         ],
         "center": [
-          -0.5942501425743103,
-          -4.203077793121338,
-          0.007711336016654968
+          -0.5942596197128296,
+          -4.20307731628418,
+          0.007683299481868744
         ],
-        "size": 2.8327126339650714
+        "size": 2.832707448360976
       }
     ],
     "HBond": [
@@ -2745,9 +2745,9 @@
           "HBond_donor"
         ],
         "center": [
-          1.7420722246170044,
-          -5.333615779876709,
-          -2.0231094360351562
+          1.7421373128890991,
+          -5.333679676055908,
+          -2.023149251937866
         ],
         "size": 1.7382464742914956
       }
@@ -2764,15 +2764,15 @@
           9
         ],
         "node_types": [
-          "Aromatic",
-          "Hydrophobic"
+          "Hydrophobic",
+          "Aromatic"
         ],
         "center": [
-          6.085992813110352,
-          -7.5041632652282715,
-          -0.6989426612854004
+          6.085970401763916,
+          -7.504143238067627,
+          -0.6989793181419373
         ],
-        "size": 4.603310045640171
+        "size": 4.603288587968052
       },
       {
         "cluster_type": "Aromatic",
@@ -2783,15 +2783,15 @@
           5
         ],
         "node_types": [
-          "Aromatic",
-          "Hydrophobic"
+          "Hydrophobic",
+          "Aromatic"
         ],
         "center": [
-          2.785226345062256,
-          -11.23642349243164,
-          0.6891627907752991
+          2.785236358642578,
+          -11.236412048339844,
+          0.6891155242919922
         ],
-        "size": 3.8600820660563966
+        "size": 3.8600985169383546
       }
     ],
     "Hydrophobic": [],
@@ -2805,9 +2805,9 @@
           "Halogen"
         ],
         "center": [
-          1.1545273065567017,
-          -4.340761661529541,
-          0.16515229642391205
+          1.1545072793960571,
+          -4.340743541717529,
+          0.16510576009750366
         ],
         "size": 2.3005262278302294
       },
@@ -2821,11 +2821,11 @@
           "Halogen"
         ],
         "center": [
-          7.3461408615112305,
-          -8.275638580322266,
-          0.8542768359184265
+          7.346146583557129,
+          -8.275606155395508,
+          0.8542318344116211
         ],
-        "size": 2.584026034949599
+        "size": 2.584036495564757
       },
       {
         "cluster_type": "Halogen",
@@ -2836,9 +2836,9 @@
           "Halogen"
         ],
         "center": [
-          3.251991033554077,
-          -11.786016464233398,
-          1.3847336769104004
+          3.251943826675415,
+          -11.785998344421387,
+          1.3847230672836304
         ],
         "size": 1.8837494593627717
       }

@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "index": 0,
+      "type": "HBond_donor",
+      "interaction_type": "HBond_ldon",
+      "hotspot_position": [
+        3.9769999980926514,
+        1.3350000381469727,
+        -2.4240000247955322
+      ],
+      "score": 0.9094912610670214,
+      "center": [
+        4.799211025238037,
+        0.4633312225341797,
+        -5.861593246459961
+      ],
+      "radius": 0.6451905103710748,
+      "neighbor_edge_dict": {
+        "0": 0
+      },
+      "overlapped_nodes": [
+        0,
+        0
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "index": 0,
+      "node_indices": [
+        0,
+        0
+      ],
+      "edge_type": [
+        "HBond_ldon",
+        "HBond_ldon"
+      ],
+      "distance_mean": 0.0,
+      "distance_std": 0.912437170081193
+    }
+  ],
+  "node_cluster_dict": {
+    "Cation": [],
+    "Anion": [],
+    "HBond": [
+      {
+        "cluster_type": "HBond",
+        "node_indices": [
+          0
+        ],
+        "node_types": [
+          "HBond_donor"
+        ],
+        "center": [
+          4.799211025238037,
+          0.4633312225341797,
+          -5.861593246459961
+        ],
+        "size": 1.2903810207421496
+      }
+    ],
+    "Aromatic": [],
+    "Hydrophobic": [],
+    "Halogen": []
+  },
+  "node_dict": {
+    "Hydrophobic": [],
+    "PiStacking_P": [],
+    "PiStacking_T": [],
+    "PiCation_lring": [],
+    "PiCation_pring": [],
+    "HBond_ldon": [
+      0
+    ],
+    "HBond_pdon": [],
+    "SaltBridge_lneg": [],
+    "SaltBridge_pneg": [],
+    "XBond": []
+  }
+}
